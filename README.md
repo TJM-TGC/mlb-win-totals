@@ -5,6 +5,8 @@ A working repository focused on identifying advantages in predicting MLB Wins ve
 
 To Do's:
 
-- Connect Actualized MLB Wins
+- Call API for historical MLB Wins
+- Call API for Vegas Win Total Estimates
+- (?) Call API for Nate Silver Real Time Projections
 - Calculate Pythag Win %
 - Create Plots of Data
