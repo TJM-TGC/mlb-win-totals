@@ -10,3 +10,4 @@ To Do's:
 - (?) Call API for Nate Silver Real Time Projections
 - Create Plots of Data
 - Generate ERD
+- Switch Axes on Histogram - Maybe even make a box plot?
