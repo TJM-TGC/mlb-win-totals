@@ -1,9 +1,13 @@
 
 having the static data isn't as important as being able to repeatedly create the data 
-we want from the original CSVs  #--- I agree 
+we want from the original CSVs 
+
+#--- I agree 
     
 lower case names are much easier to work with, anything else is like having different electrical outlet types in each room
-in your house #---- Haha agreed
+in your house 
+
+#---- Haha agreed
 
 it's not critical because we don't have a finished product / completed project, yet still true 
 that jupyter notebooks are best used as sorta substitutes for websites or other frames to put
@@ -23,6 +27,8 @@ a_18 = os.path.join("Resources", "2018_team_data.csv")
 a_19 = os.path.join("Resources", "2019_team_data.csv")
 a_20 = os.path.join("Resources", "2020_team_data.csv")
 
+# -- I was looking at For Loops but am not that good at those. It would make the data look cleaner too.
+
 that way we only have to change code in one place rather than in 21-16 = 5 places if our code gets snapped up for whatever reason or if we just want to play around with 
 the code 
 
@@ -39,4 +45,4 @@ runs scored ** 1.83 / runs scored ** 1.83 + allowed ** 1.83 counts all runs scor
 as equal, idk
 
 
-# -- That is also a good though. The more applications with this kind of data the better. 
+# -- That is also a good thought. The more applications with this data the better. Eventually, I want to deploy it into Github pages, hence the index.html file.
