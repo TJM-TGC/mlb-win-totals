@@ -1,9 +1,9 @@
 
 having the static data isn't as important as being able to repeatedly create the data 
-we want from the original CSVs
+we want from the original CSVs  #--- I agree 
     
 lower case names are much easier to work with, anything else is like having different electrical outlet types in each room
-in your house
+in your house #---- Haha agreed
 
 it's not critical because we don't have a finished product / completed project, yet still true 
 that jupyter notebooks are best used as sorta substitutes for websites or other frames to put
@@ -26,6 +26,9 @@ a_20 = os.path.join("Resources", "2020_team_data.csv")
 that way we only have to change code in one place rather than in 21-16 = 5 places if our code gets snapped up for whatever reason or if we just want to play around with 
 the code 
 
+
+# -- Agree with the above. I'm just used to jupyter notebooks. I'm happy to work with anything and this is a pretty fluid project. 
+
 I'm going to look into 'sportsreference' the python package
 i feel like a great stat would be average run differentials per inning
 or pythagorean win % with inning fixed effects?
@@ -34,3 +37,6 @@ playing a sub-500 team in septemeber after the team that's down 9-2 has
 already made the plaoyoffs
 runs scored ** 1.83 / runs scored ** 1.83 + allowed ** 1.83 counts all runs scored and runs allowed 
 as equal, idk
+
+
+# -- That is also a good though. The more applications with this kind of data the better. 
